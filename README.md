@@ -1,1 +1,1 @@
-# markov
+STDIN takes in any amount of text. That text is split very simply by spaces into "lexemes," which form a Markov chain. The program then generates 100 words of random text based on this Markov chain and prints it to STDOUT.
